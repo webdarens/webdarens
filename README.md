@@ -8,7 +8,7 @@
 
 <style>
   .medium-text {
-    font-size: 24px; 
+    font-size: 40px; 
   }
   .normal-text {
     font-size: 18px;
