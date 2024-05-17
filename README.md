@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
+<a href="https://codeforces.com/profile/KKholin">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Leet code rating" />
+  </a>
   <a href="https://t.me/webdaren" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/KKholin" target="_blank">
-    <img src="https://github.com/webdarens/webdarens/blob/main/assets/Codeforces_logo.svg" height="25" alt="codeforces logo"  />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left" style="font-size: 68px;">Я начинающий Python разработчик. Мой путь в it начался со школы Movavi, где я прошел обучение и за 3.5 года обучения получил 3 золотых медали. Также я пробовал изучать язык C++, Swift, Web разработку! На протяжении нескольких месяцев я работал на фрилансе, также успешно закончил курс "Код будущего". <br><br>- 🔭 Решил в сумме около 150 задач на codeforces и leetcode ЗА МЕСЯЦ!<br><br>-📚 Победиетель олимпиады от яндекса!<br><br>-⚡ Работаю в компании PAVEPO в роли python разработчика</p>
+<p align="left" >Я начинающий Python разработчик. Мой путь в it начался со школы Movavi, где я прошел обучение и за 3.5 года обучения получил 3 золотых медали. Также я пробовал изучать язык C++, Swift, Web разработку! На протяжении нескольких месяцев я работал на фрилансе, также успешно закончил курс "Код будущего". <br><br>- 🔭 Решил в сумме около 150 задач на codeforces и leetcode <strong>за месяц!</strong><br><br>-📚 Победиетель олимпиады от яндекса!<br><br>-⚡ Работаю в компании PAVEPO в роли python разработчика</p>
 
 ###
 
