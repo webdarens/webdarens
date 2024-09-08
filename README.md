@@ -38,9 +38,7 @@
 | Python разработка - Movavi | March 2021 - June 2022 |
 | iOS разработка - Movavi  | January 2023 - June 2024 |
 | C++ intermediate level - МФТИ | November 2023 - June 2024 |
-<p align="center">
-  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 ###
 
@@ -62,3 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
+<p align="center">
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
