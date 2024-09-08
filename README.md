@@ -34,9 +34,9 @@
 
 | Name of the course  | Date |
 | ------------- | ------------- |
-| Android разработка - Movavi | December 2020 - May 2021 |
-| Python разработка - Movavi | March 2021 - June 2022 |
-| iOS разработка - Movavi  | January 2023 - June 2024 |
+| Android разработка - Movavi School | December 2020 - May 2021 |
+| Python разработка - Movavi School | March 2021 - June 2022 |
+| iOS разработка - Movavi School | January 2023 - June 2024 |
 | C++ intermediate level - МФТИ | November 2023 - June 2024 |
 
 
