@@ -31,27 +31,15 @@
 
 ###
 
-
-- 🥇 Movavi School Fest (Сontest) - Старт в iOS-разработке
-
 - 🥇Яндекс учебник - I тур
+  
+- 🥇 Movavi School Fest (Сontest) - Старт в iOS-разработк
 
 - 🥇 Movavi School Fest (Olympiad) - Разработка мобильных приложений на Android
-
-- 🥇 InFik - Полу-финал, 1-ое место соло тура
 
 - 🥇 Movavi School Fest (Olympiad) - Программирование на Python
 
 - 🥈 InFik - Финалист, 2-ое командное место
-
-
-###
-<p align="center">
-  <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-###
 
 <h3 align="left">📓  Курсы </h3>
 
@@ -81,3 +69,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
+###
+<p align="center">
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
+###
