@@ -38,6 +38,7 @@
 | Android разработка - Movavi School | December 2020 - May 2021 |
 | Python разработка - Movavi School | March 2021 - June 2022 |
 | iOS разработка - Movavi School | January 2023 - June 2024 |
+| Алгоритмы и структуры данных - Т-поколение | September 2024 - Now |
 
 
 ###
